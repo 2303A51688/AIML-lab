@@ -8,4 +8,4 @@
 #[lab_7](https://github.com/2303A51688/AIML-lab/blob/main/AIML_Assignment_7.ipynb)\
 #[lav_8](https://github.com/2303A51688/AIML-lab/blob/main/AIML_Assignment_8.ipynb)\
 #[lab_9](https://github.com/2303A51688/AIML-lab/blob/main/AIML_Assignment_9.ipynb)\
-#[lab_01](https://github.com/2303A51688/AIML-lab/blob/main/AIML_Assignment_10.ipynb)
+#[lab_10](https://github.com/2303A51688/AIML-lab/blob/main/AIML_Assignment_10.ipynb)
